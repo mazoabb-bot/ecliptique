@@ -1,0 +1,63 @@
+body{
+background:#0a0a0a;
+color:#d4af37;
+font-family:Georgia, serif;
+text-align:center;
+margin:0;
+}
+
+.logo{
+font-size:40px;
+letter-spacing:6px;
+margin-top:60px;
+}
+
+.subtitle{
+color:#aaa;
+margin-bottom:40px;
+}
+
+.login-container input{
+display:block;
+margin:15px auto;
+padding:12px;
+width:250px;
+background:black;
+border:1px solid #333;
+color:#d4af37;
+}
+
+button{
+padding:12px 40px;
+background:#d4af37;
+border:none;
+cursor:pointer;
+font-weight:bold;
+}
+
+.vault{
+display:none;
+padding:40px;
+}
+
+.collection{
+margin-top:60px;
+}
+
+.collection-img{
+width:80%;
+max-width:900px;
+border-radius:6px;
+box-shadow:0 0 30px rgba(0,0,0,0.8);
+}
+
+ul{
+list-style:none;
+padding:0;
+margin-top:20px;
+}
+
+li{
+margin:10px;
+font-size:18px;
+}
